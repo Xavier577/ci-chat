@@ -1,0 +1,5 @@
+- Write web socket server to handle multiple connections.
+- Figure out how to handle authethication in conjuction with the websocket server.
+- Figure out how to deal with hosts and rooms.
+- Write tests on the backend.
+- Refactor when needed.

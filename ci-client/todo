@@ -1,0 +1,6 @@
+- Work on interface (CLI) to match mockups.
+- Work on CLI interface for joining and creating rooms.
+- Make loader for indicating state of processes such as Joining a room or Creating a room.
+- Figure out how to pass and recieve messages from the web
+- Write tests for the frontend.
+- Refactor when needed.
