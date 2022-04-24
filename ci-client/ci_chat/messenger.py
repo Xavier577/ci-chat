@@ -6,7 +6,7 @@ class Messenger:
     @staticmethod
     async def text(ws_connect):
         async for websocket in ws_connect:
-            message = await async_input("> ")
+            message = await async_input("you")
             await Transmitter.send(message, websocket)
 
     @staticmethod
